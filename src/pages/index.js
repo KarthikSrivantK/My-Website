@@ -24,7 +24,7 @@ export default (() => {
 			flex-direction="column"
 			max-height="1000px"
 		>
-			<Override slot="SectionContent" max-width="999px" position="relative" left="-150px" />
+			<Override slot="SectionContent" max-width="999px" position="relative" left="-88px" />
 			<Text
 				font="--base"
 				text-transform="uppercase"
